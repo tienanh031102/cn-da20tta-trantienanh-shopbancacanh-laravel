@@ -1,0 +1,1 @@
+`qlkho`.`chitietphieuxuat`, CONSTRAINT `chitietphieuxuat_ibfk_2` FOREIGN KEY (`sophieuxuat`) REFERENCES `phieuxuathang` (`sophieuxuat`)
